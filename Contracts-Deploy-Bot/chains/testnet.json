@@ -2,7 +2,7 @@
   {
     "name": "ROME Testnet",
     "rpcUrl": "https://rome.testnet.romeprotocol.xyz",
-    "chainId": "200001",
+    "chainId": "200002",
     "symbol": "ROME",
     "explorer": "https://rome.testnet.romeprotocol.xyz:1000"
   },
