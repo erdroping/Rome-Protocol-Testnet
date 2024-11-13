@@ -1,5 +1,7 @@
 # Rome Protocol Testnet Transaction & Contracts Deploy Bot by HiddenGem
 
+## Use Burner/New EVM Wallet For Testnet
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+HiddenGem)](https://git.io/typing-svg)
 
 <p align="center">
@@ -56,37 +58,14 @@ npm start
 
 ## 2. Contracts Deploy Bot
 
-## Steps
+## Follow Steps
 
-### 1. Getting Started Add New Terminal (CTRL+SHIFT+C)
-
-### 2. Go To Bot Directory
-```
-cd Rome-Protocol-Testnet
-cd Contracts-Deploy-Bot
-```
-
-### 3. Install the dependencies:
-
-   ```bash
-   npm install
-   ```
-### 4. Create `.env` File & Edit and Configurate .env File Then Save Your Private Key (CTRL+S)
-```
-PRIVATE_KEY=Enter Private Key & Save
-```
-Example - `PRIVATE_KEY=1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef`
-
-### 5. Run the script & Deploy Contracts
-
-   ```bash
-   npm start
-   ```
-
-### 6. Follow Next Step and Deploy Contracts 
-
-
-## Follow the prompts to select the network, enter the token name, symbol, and supply, and deploy the contract.
+### 1. Open [Github CodeSpace](https://github.com/codespaces)
+- Past Command in Terminal
+  ```
+   [ -f "evm-contract.sh" ] && rm evm-contract.sh; wget -q https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/refs/heads/main/ERC20/evm-contract.sh && chmod +x evm-contract.sh && ./evm-contract.sh
+  ```
+### Type Step By Step Script Menu Options 1 then 2 then 3 & Deploy Contracts
 
 
 # ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
