@@ -3,7 +3,7 @@ const prompt = require('prompt-sync')();
 require('dotenv').config();
 
 const RPC_URL = 'https://rome.testnet.romeprotocol.xyz';
-const CHAIN_ID = 200001;
+const CHAIN_ID = 200002;
 const provider = new ethers.JsonRpcProvider(RPC_URL, CHAIN_ID);
 
 function generateRandomAddress() {
