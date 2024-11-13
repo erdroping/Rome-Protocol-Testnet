@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ROME Testnet",
+    "rpcUrl": "https://rome.testnet.romeprotocol.xyz",
+    "chainId": "200001",
+    "symbol": "ROME",
+    "explorer": "https://rome.testnet.romeprotocol.xyz:1000"
+  },
+  {
+    "name": "Sepolia Testnet",
+    "rpcUrl": "https://rpc.sepolia.org",
+    "chainId": "11155111",
+    "symbol": "ETH",
+    "explorer": "https://sepolia.etherscan.io"
+  }
+]
